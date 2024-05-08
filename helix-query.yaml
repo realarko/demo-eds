@@ -1,6 +1,6 @@
 indices:
   mysite:
-    target: /query-index.json
+    target: query-index.xlsx
     properties:
       title:
         select: head>meta[property="og:title"]
